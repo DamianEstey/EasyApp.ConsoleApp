@@ -2,7 +2,7 @@
 ## A MonoGame inspired console app library
 
 EasyApp.ConsoleApp is meant to make more interactive, frame-rate independent
-console app easier to make. It does this through the same syntactic structure that MonoGame (https://monogame.net/) also provides.  
+console apps easier to make. It does this through the same syntactic structure that MonoGame (https://monogame.net/) also provides.  
 
 ## An Example How-To:
 
